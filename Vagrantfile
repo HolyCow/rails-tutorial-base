@@ -23,7 +23,7 @@ Vagrant.configure("2") do |config|
           {
             'user' => 'vagrant',
             'default_ruby' => 'ruby-1.9.3-p429',
-            'rubies' => ['ruby-1.9.3-p429', 'ruby-1.9.2-p320']
+            'rubies' => ['ruby-1.9.3-p429']
           }
         ],
         "vagrant" => {
